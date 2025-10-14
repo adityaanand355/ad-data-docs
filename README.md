@@ -7,5 +7,5 @@ This repository is a centralized hub for diagrams, notes, and technical document
 + Data Modeling
 + Other key data concepts
 
-The goal is to provide a quick reference and learning resource for my references.
+The goal is to provide a quick reference and learning resource.
 

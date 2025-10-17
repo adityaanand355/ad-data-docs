@@ -1,4 +1,4 @@
-📌 ### Overview
+📌 Overview
 This repository is a centralized hub for diagrams, notes, and technical documentation related to:
 
 + Enterprise Data Platform (EDP)
